@@ -1,0 +1,23 @@
+[
+  {
+    "username": "Zen",
+    "cruiseType": "Test Cruise Type",
+    "seatZone": "window",
+    "numPeople": 10,
+    "totalCost": 800
+  },
+  {
+    "username": "Zen",
+    "cruiseType": "Test Cruise Type",
+    "seatZone": "window",
+    "numPeople": 1,
+    "totalCost": 710
+  },
+  {
+    "username": "Z",
+    "cruiseType": "Test Cruise Type",
+    "seatZone": "center",
+    "numPeople": 10,
+    "totalCost": 100
+  }
+]
